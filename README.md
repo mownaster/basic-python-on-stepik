@@ -1,2 +1,2 @@
 # Stepik
-my codes for courses on stepik
+my codes for python courses on stepik 
